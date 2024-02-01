@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+        "url": "git+https://github.com/RE-ProBot/QueenAmdi.git"
     },
     "engines": {
         "node": "18.x"
@@ -23,9 +23,9 @@
     "developer": "AN Tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+        "url": "https://github.com/RE-ProBot/QueenAmdi/issues"
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "https://github.com/RE-ProBot/QueenAmdi#readme",
     "dependencies": {
         "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
         "@adiwajshing/keyed-db": "^0.2.4",
